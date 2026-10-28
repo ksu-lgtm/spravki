@@ -1,0 +1,1 @@
+<?php echo 'Сервер работает, PHP ' . PHP_VERSION;
