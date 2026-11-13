@@ -13,6 +13,3 @@
 2. Скопировать config.example.php в config.php и указать параметры БД.
 3. Выполнить database/schema.sql, затем database/seed.sql.
 4. Запустить OpenServer и открыть http://spravki/
-
-## Тестовые учётные записи
-Будут добавлены на занятии 6.
