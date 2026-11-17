@@ -47,7 +47,7 @@ CREATE TABLE `status_log` (
 
 -- 2. Добавление учебных данных (минимум 20 записей суммарно)
 -- Группы (2 записи)
-INSERT INTO `groups` (`name`) VALUES ('4ИСИП-1023'), ('3П-1024');
+INSERT INTO `groups` (`name`) VALUES ('4ИСИП-1023'), ('3ИСИП-1024');
 
 -- Пользователи (3 записи - 2 студента, 1 сотрудник, пароль у всех 123456 хеширован)
 INSERT INTO `users` (`group_id`, `role`, `full_name`, `login`, `password_hash`) VALUES
